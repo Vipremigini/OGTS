@@ -1,3 +1,4 @@
 11:16 - I am researching about which microcontrollers or microcontroller board to use on the orpheus goes to space goes to space mission.
 
 11:25 - After researching and considering options, I have come to consider three possibilities, ATtiny 2 series, the RP2040, STM32U5 series
+! [STM32U5] (https://www.st.com/content/dam/category-pages/stm32u5-series-catalog-item/stm32u5-features.jpg)
