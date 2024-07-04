@@ -1,1 +1,6 @@
 13:07 -  I have decided to try building the pcb using ATtiny85 microcontroller after stumbling upon it through : https://www.hackster.io/aXr/a-complete-guide-to-build-your-own-attiny85-project-pcb-efc2bf
+13:43 - My refernces: https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/
+                      https://how2electronics.com/lora-sx1278-esp8266-transmitter-receiver/
+                      https://www.avrfreaks.net/s/topic/a5C3l000000BrEsEAK/t392368
+                      https://forum.arduino.cc/t/attiny-pinout-leaves-me-confused-how-to-call-the-pins/149354
+
